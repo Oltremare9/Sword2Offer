@@ -1,4 +1,4 @@
-package 面试题21调整数组顺序使奇数位于偶数前面;
+package 面试题21.调整数组顺序使奇数位于偶数前面;
 
 class Solution {
     public int[] exchange(int[] nums) {
