@@ -2,6 +2,7 @@ package 面试题03.数组中重复的数字;
 
 class Solution {
     public int findRepeatNumber(int[] nums) {
+        //
         boolean isDuplicated[]=new boolean[nums.length];
         int first=0;
         while(nums[first]==first)
