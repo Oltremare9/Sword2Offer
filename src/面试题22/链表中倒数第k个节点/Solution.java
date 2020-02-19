@@ -1,4 +1,4 @@
-package Meeting_22.链表中倒数第k个节点;
+package 面试题22.链表中倒数第k个节点;
 
 /**
  * Definition for singly-linked list.
