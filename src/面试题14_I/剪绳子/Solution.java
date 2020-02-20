@@ -13,7 +13,7 @@ class Solution {
         n -= 3;
         while (n > 4) {
             res *= 3;
-            res -= 3;
+            n -= 3;
         }
         res *= n;
         return res;
